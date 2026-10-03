@@ -109,6 +109,9 @@ public class Rekening {
 	                Transaksi transaksi = riwayatTransaksi.get(i);
 	                transaksi.cetakDetail();
     		
+	                
+	                
+	                
     	}
 			}
     		}
