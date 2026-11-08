@@ -7,8 +7,8 @@ package shop;
  * 3. Copy the three printed values below.
  */
 public final class StudentInfo {
-    public static final String NIM = "2511532012";   // TODO: e.g. "2401010057"
-    public static final String NAME = "Umar Abdul Aziz";  // TODO: your full name
+    public static final String NIM = "2511532009";   // TODO: e.g. "2401010057"
+    public static final String NAME = "Muhamad Fajri Aulia";  // TODO: your full name
 
     public static final int CARD_ADMIN_PERCENT = 0;   // TODO: from tools.NimParams
     public static final long TRANSFER_ADMIN_FEE = 0;  // TODO: from tools.NimParams

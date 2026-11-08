@@ -81,6 +81,10 @@ public class ShopApp {
         };
 
         System.out.println("\n" + voucher.getName() + " untuk e-book berhasil? " + checkout.checkout(List.of(ebook), regular, voucher));
+        
+        /* error compiler jika menggunakan ini
+        checkout.refund(new BankTransferPayment("Bank Nagari"), 1_000);
+         */
 
     }
 }
